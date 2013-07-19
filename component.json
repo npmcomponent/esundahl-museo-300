@@ -9,5 +9,11 @@
   "license": "MIT",
   "styles": [
     "museo-300.css"
+  ],
+  "fonts": [
+    "fonts/museo300-regular-webfont.eot",
+    "fonts/museo300-regular-webfont.svg",
+    "fonts/museo300-regular-webfont.ttf",
+    "fonts/museo300-regular-webfont.woff"
   ]
 }
