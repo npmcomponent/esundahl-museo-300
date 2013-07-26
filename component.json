@@ -3,7 +3,10 @@
   "repo": "esundahl/museo-300",
   "description": "Museo 300 Font Component",
   "version": "0.0.1",
-  "keywords": [],
+  "keywords": [
+    "font",
+    "museo"
+  ],
   "dependencies": {},
   "development": {},
   "license": "MIT",
